@@ -6,6 +6,10 @@
   "scripts": {
     "test": "grunt test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prolificinteractive/glenlivet-html-to-json"
+  },
   "author": "Eric Weber",
   "license": "MIT",
   "dependencies": {
