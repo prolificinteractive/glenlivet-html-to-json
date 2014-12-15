@@ -1,0 +1,20 @@
+{
+  "name": "glenlivet-html-to-json",
+  "version": "1.0.0",
+  "description": "A simple wrapper around html-to-json for glenlivet",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Eric Weber",
+  "license": "MIT",
+  "dependencies": {
+    "glenlivet": "^2.0.2",
+    "html-to-json": "^0.1.1"
+  },
+  "devDependencies": {
+    "glenlivet-request": "^1.0.0",
+    "grunt": "^0.4.5",
+    "should": "^4.4.1"
+  }
+}
